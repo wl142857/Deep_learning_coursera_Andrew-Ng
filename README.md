@@ -3,4 +3,4 @@
 ## Content
 -  The programming assignment.
 -  The answer of practice question (quiz) 
--  The screenshots of slides in pdf form
+-  The screenshots of slides in pdf form (in progress)
